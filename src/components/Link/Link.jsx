@@ -6,7 +6,6 @@ const Link = (props) => {
         <div>
                 <li className='mr-12'>
                     <a href="{path}">{name}</a>
-
                 </li>
         </div>
     );

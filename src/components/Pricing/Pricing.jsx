@@ -22,7 +22,7 @@ const Pricing = () => {
         'unlimited tickets free',
         'per day unlimited times',
         'unlimted times free',
-        'full access'
+        'full access of account',
       ]}  
     ];
     return (
